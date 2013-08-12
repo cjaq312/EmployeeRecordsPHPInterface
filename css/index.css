@@ -1,0 +1,56 @@
+#backgroundbody
+{
+	background-color: #C8C8C8;
+}
+
+#outerdiv
+{
+	width: 100%;
+}
+
+#headerdiv
+{
+	color: #D0D0D0;
+	text-align: center;
+	background: #600000;
+	height: 75px;
+	border-style:double;
+	padding:2%;
+	font-family:"Times New Roman";
+	font-size:3em;
+}
+
+#left_panel
+{
+	width:22%; 
+	background :#600000;
+	font-family:"Times New Roman";
+	font-size:1em;
+	color:#C8C8C8 ;
+	float: left;
+	
+}
+
+#left_panel_row
+{
+	padding:20px;
+	border-style: double;
+	text-align :center; 
+	height: 400px;
+	
+}
+			
+#left_panel_row a:link {color:#C8C8C8}      /* unvisited link */
+#left_panel_row a:visited {color:#BFBFBF}  /* visited link */
+#left_panel_row a:hover {color:#000000}  /* mouse over link */
+
+#right_panel
+{
+	width:75%;
+	font-family:"Times New Roman";
+	font-size:1em;
+	float: right;
+}
+
+
+

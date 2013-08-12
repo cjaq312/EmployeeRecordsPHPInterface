@@ -1,0 +1,10 @@
+1, 'Pencil', 'Stationery', 100, 1
+2, 'Rulers', 'Stationery', 50, 2
+3, 'Umbrella', 'Utility', 50, 3
+4, 'Bag', 'Utility', 50, 5
+5, 'Battery', 'Utility', 20, 2
+6, 'Magazine', 'Pubication', 20, 8
+7, 'Mug', 'Utility', 40, 4
+8, 'Ball', 'Sports', 50, 2
+9, 'Bat', 'Sports', 50, 3
+10, 'Gloves', 'Sports', 50, 3

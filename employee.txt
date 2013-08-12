@@ -1,0 +1,10 @@
+'JB', '888665555','James', 'Borg', '37', '450 Stone,Houston,TX', '10-JUN-2011', null
+'FT', '333445555', 'Franklin', 'Wong', '45', '638 Voss,Houston,TX', '10-JAN-2011', null
+'JW', '987654321', 'Jennifer', 'Wallace', '20', '291 Berry,Bellaire,TX', '10-JAN-2011', null
+'JJ', '111111100', 'Jared', 'James', '66', '123 Peachtr,Atlanta,GA', '10-JAN-2001', null
+'AF', '444444400', 'Alex', 'Freed', '19', '4333 Pillsbury,Milwaukee,WI', '22-JAN-2009', '19-JUN-2011'
+'JOJ', '555555500', 'John', 'James', '30', '766 Bloomington,Sacramento,CA', '09-MAY-2001', null
+'JS', '123456789', 'John', 'Smith', '19', '731 Fondren,Houston,TX', '17-AUG-1999', null
+'AZ', '999887777', 'Alicia', 'Zelaya', '19', '3321 Castle,Spring,TX', '27-SEP-2000', null
+'RN', '666884444', 'Ramesh', 'Narayan', '35', '971 FireOak,Humble,TX', '26-MAR-2000', null
+'JE', '453453453', 'Joyce', 'English', '31', '5631 RiceOak,Houston,TX', '11-SEP-2004', null
